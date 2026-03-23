@@ -1,4 +1,4 @@
-#  Hi there <img src="wink"/> 
+#  Seja bem vindos <img src="wink"/> 
 
 olá, Sou o Luigi Barbosa, Programador Front-End!!
 
